@@ -1,7 +1,7 @@
 # ChatGPT-Clone-using-React
 ChatGPT Clone using React.js
 
-## Prerequisites
+## Pre-requisites
 - Install **node.js** in windows. Once, done check the availability
   - node -v, npm --version
 - Update node package manager:
